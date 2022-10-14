@@ -1,0 +1,17 @@
+[user]
+	name = Muhammad Rayhan Hamada Budiman
+	email = rayhanhamada1999@gmail.com
+[alias]
+	co = commit
+	st = status
+	sth = stash
+[safe]
+	directory = D:/codes
+	directory = D:/codes/pujasari_backend
+	directory = D:/codes
+	directory = D:/codes/minecraft-bot
+	directory = C:/Users/hamad/scoop/buckets/extras
+	directory = D:/codes
+	directory = D:/codes/portfolio-remix
+[init]
+	defaultBranch = main
